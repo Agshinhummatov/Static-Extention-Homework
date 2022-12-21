@@ -1,0 +1,18 @@
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\Calculator,Login Task.exe
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\Calculator,Login Task.deps.json
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\Calculator,Login Task.runtimeconfig.json
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\Calculator,Login Task.dll
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\Calculator,Login Task.pdb
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.csproj.CopyComplete
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.dll
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\refint\Calculator,Login Task.dll
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.pdb
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\Calculator,Login Task.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Task dersde\Calculator,Login Task\Calculator,Login Task\Calculator,Login Task\obj\Debug\net6.0\ref\Calculator,Login Task.dll
